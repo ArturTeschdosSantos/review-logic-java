@@ -40,5 +40,15 @@ System.out.printf("Primeira Letra = %C", gremio);
 
 
 ```
+## ✅ Método print()
+
+O método **System.out.print()** gera uma string de texto, porém diferentemente do método println(), não cria uma nova linha abaixo da atual, deixando o cursor na mesma linha onde a string foi impressa.
+
+**Exemplos:**
+
+```
+System.out.print("O grêmio vai sair campeão.");
+System.out.print("E o inter não");
+``` 
 
 
